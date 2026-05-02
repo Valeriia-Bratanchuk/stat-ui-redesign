@@ -34,8 +34,8 @@
 
 ---
 
-##  Демо
-
+##  Посилання
+https://stat-ui-redesign-3lt1.vercel.app/
 
 
 ---
